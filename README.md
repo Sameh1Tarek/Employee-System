@@ -15,4 +15,4 @@ Options available in the program:
 
 5) To exit the program.
 
-When you enter another number, it will print "When you enter another number, it will print"
+When you enter another number, it will print "Sorry, this option is not available, try again"
