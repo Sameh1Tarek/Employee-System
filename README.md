@@ -14,3 +14,6 @@ Options available in the program:
 4) Updating the salary by the name of the employee.
 
 5) To exit the program.
+
+عند
+When you enter another number, it will print "When you enter another number, it will print"
