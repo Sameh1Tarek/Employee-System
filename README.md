@@ -2,7 +2,8 @@
 
 ![pic](https://user-images.githubusercontent.com/108232157/211070370-357bde52-58e4-4431-a90b-8ca840dc32f5.png)
 
-A small project in C++ to manage employees. I used Vector to store data in order to be more flexible because it is dynamic.
+A small project in C++ to manage employees(name, age, salary, position).
+I used STLS(Vectors) to store data in order to be more flexible because it is dynamic.
 
 Options available in the program:
 1) To add a new employee.
