@@ -15,5 +15,4 @@ Options available in the program:
 
 5) To exit the program.
 
-عند
 When you enter another number, it will print "When you enter another number, it will print"
